@@ -1,0 +1,14 @@
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Banco de dados (é criado automaticamente na primeira execução)
+*.db
+
+# Configurações de editores
+.vscode/
+.idea/
+
+# Arquivos do sistema
+Thumbs.db
+.DS_Store
